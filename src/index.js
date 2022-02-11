@@ -217,6 +217,9 @@ $("div").height()
 
 // including padding not border
 $("div").innerHeigth()
+//get the height a div element including padding and border
+$("div").outerHeight()
+
 
 
 
