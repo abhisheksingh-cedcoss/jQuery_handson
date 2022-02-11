@@ -172,6 +172,9 @@ remove(".test, .demo");
 $("p").
 addClass("important");
 
+// method to add both the "important" and "test" class to a <p> element.
+
+$("p").addClass("important test");
 
 
 
