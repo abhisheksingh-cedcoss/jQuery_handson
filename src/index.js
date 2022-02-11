@@ -73,6 +73,8 @@ $("div").fadeTo("slow", 0.2);
 $("button").click(function(){
   $("div").fadeToggle(1000);});
 
+  // use a jQuery method to slide up a <div> element.
+$("div").slideUp();
 
 
 
