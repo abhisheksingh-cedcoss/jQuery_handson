@@ -97,6 +97,10 @@ $("button").click(function(){
 $("div").animate({left: '250px'});
 
 
+// Use the animate() method to set the height of a <div> element to 500 pixels.
+
+$("div").animate({height: '500px'});
+
 
 
 
