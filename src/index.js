@@ -42,7 +42,12 @@ $(this).hide();
   $("p").click(function(){$(this).hide("slow");
   });
 
+// Use a jQuery method to show a <p> element.
 
+
+$("button").click(function(){
+$("p").show();
+});
 
 
 
