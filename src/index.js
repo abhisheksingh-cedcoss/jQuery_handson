@@ -108,5 +108,8 @@ $("div").animate({
     opacity: '0.4',height: '500px',width: '500px'});
 
 
+//Use the animate() method to set the font-size of a <div> element to 100 pixels:
 
+$("div").animate({
+    fontSize: '100px'}, "slow");
 
