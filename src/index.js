@@ -162,3 +162,20 @@ $("div").remove();
 
 $("div").empty();
 
+// remove all element all div element with class 
+
+$("div").
+remove(".test, .demo");
+
+
+
+
+
+
+
+
+
+
+
+
+
