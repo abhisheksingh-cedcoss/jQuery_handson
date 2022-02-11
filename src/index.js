@@ -1,7 +1,6 @@
 $(document).ready(function(){
 
-    $("p").hide();
-  
+    $("#test").hide();  
   });
 
 
