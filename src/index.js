@@ -226,6 +226,9 @@ $("div").outerHeight(true)
 
 $("span").parent();
 
+// ancester
+$("span").parents();
+
 
 
 
