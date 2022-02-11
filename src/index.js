@@ -201,6 +201,13 @@ $("p").css("border", "5px dotted red");
 
 $("p").css("background-color");
 
+// 
+//Use the css() method to set the following styles for <p>:
+$("p").
+css
+({"background-color": "green",
+  "color": "white","font-size": "25px","padding": "15px"});
+
 
 
 
