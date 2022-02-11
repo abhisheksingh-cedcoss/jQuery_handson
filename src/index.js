@@ -229,6 +229,11 @@ $("span").parent();
 // ancester
 $("span").parents();
 
+// direct children
+
+$("div").children();
+
+
 
 
 
