@@ -167,6 +167,11 @@ $("div").empty();
 $("div").
 remove(".test, .demo");
 
+// jQuery method to add the "important" class to a <p> element.
+
+$("p").
+addClass("important");
+
 
 
 
