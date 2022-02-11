@@ -180,6 +180,13 @@ $("p").addClass("important test");
 
 $("p").removeClass("important");
 
+// 
+
+$("p").click(function(){
+  $(this).toggleClass("important");
+});
+
+// jQuery method to toggle between adding and removing the "important" class from the <p> element on click.
 
 
 
