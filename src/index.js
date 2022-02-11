@@ -141,6 +141,9 @@ $("input").val("John doe")
 
 $("img").attr("src", "myimage.jpg");
 
+// Use jQuery to change the text of a link to "Demo",
+$("#myLink").text("Demo");
+$("#myLink").attr("href", "https://www.demo.com");
 
 
 
