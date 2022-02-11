@@ -125,6 +125,9 @@ $("div").html();
 // Use a jQuery method to return the value of an input field.
 $("input").val();
 
+// Use a jQuery method to return the URL address of a link.
+
+$("a").attr("href");
 
 
 
