@@ -2,11 +2,11 @@ $(document).ready(function(){
 
     // $("#test").hide(); 
     
-    // $("*").hide(); // all elements are hide using *
+    $("*").hide(); // all elements are hide using *
   });
 
 
 $(document).ready(function(){
-    $("[href]").hide(); // hiding all element of herf
+    $("tr:odd").hide(); // of all tr 
 });
 
