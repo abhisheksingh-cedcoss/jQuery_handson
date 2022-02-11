@@ -2,12 +2,11 @@ $(document).ready(function(){
 
     // $("#test").hide(); 
     
-    $("*").hide(); // all elements are hide using *
+    // $("*").hide(); // all elements are hide using *
   });
 
 
-  // second para is hide 
 $(document).ready(function(){
-    $(".test").hide();
+    $("[href]").hide(); // hiding all element of herf
 });
 
