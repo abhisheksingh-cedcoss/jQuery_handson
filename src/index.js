@@ -92,6 +92,10 @@ $("button").click(function(){
 });
 
 
+// Use the animate() method to move a <div> element 250 pixels to the right.
+
+$("div").animate({left: '250px'});
+
 
 
 
