@@ -81,6 +81,9 @@ $("div").slideUp();
 
 $("div").slideUp("slow");
 
+// Use a jQuery method to slide down a <div> element.
+$("div").slideDown();
+
 
 
 
