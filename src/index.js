@@ -49,7 +49,11 @@ $("button").click(function(){
 $("p").show();
 });
 
+// Use a jQuery method to toggle between hiding and showing a <p> element.
 
+$("button").click(function(){
+    $("p").toggle();
+  });
 
 
 
