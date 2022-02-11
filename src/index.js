@@ -132,6 +132,9 @@ $("a").attr("href");
 // Use a jQuery method to change the text of a <div> element to "Hello World".
 $("div").text("Hello World")
 
+// Use a jQuery method to change the value of an input field to "John Doe".
+$("input").val("John doe")
+
 
 
 
