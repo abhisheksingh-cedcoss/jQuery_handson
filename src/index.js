@@ -222,7 +222,9 @@ $("div").outerHeight()
 // Use a jQuery method to get the height of a <div> element, including padding, border and margin.
 $("div").outerHeight(true)
 
+// Use a jQuery method to get the direct parent of a <span> element.
 
+$("span").parent();
 
 
 
