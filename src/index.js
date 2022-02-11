@@ -1,6 +1,8 @@
 $(document).ready(function(){
 
-    // $("#test").hide();  
+    // $("#test").hide(); 
+    
+    $("*").hide(); // all elements are hide using *
   });
 
 
