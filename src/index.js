@@ -7,7 +7,11 @@ $(document).ready(function(){
 
 
 $(document).ready(function(){
-    $("tr:odd").hide(); // of all tr 
+    $("p").dblclick(function(){
+        $(this).hide();
+    })
+
+
 });
 
 $("p").click(function(){
