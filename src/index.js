@@ -197,6 +197,10 @@ $("p").css("background-color", "pink");
 
 $("p").css("border", "5px dotted red");
 
+//Return the background color of a <p> element.
+
+$("p").css("background-color");
+
 
 
 
