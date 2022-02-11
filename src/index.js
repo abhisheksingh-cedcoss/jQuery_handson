@@ -136,6 +136,11 @@ $("div").text("Hello World")
 $("input").val("John doe")
 
 
+//Use a jQuery method to change the value of an image's src attribute to "myimage.jpg".
+
+
+$("img").attr("src", "myimage.jpg");
+
 
 
 
