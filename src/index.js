@@ -209,6 +209,10 @@ css
   "color": "white","font-size": "25px","padding": "15px"});
 
 
+// Use jQuery methods to set the height and width of <div> to 500 pixels.
+$("div").height(500).width(500);
+
+
 
 
 
