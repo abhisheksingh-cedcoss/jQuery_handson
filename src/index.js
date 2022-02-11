@@ -233,8 +233,9 @@ $("span").parents();
 
 $("div").children();
 
+//Use a jQuery method to get all <span> elements that are descendants of <div>.
 
-
+$("div").find("span");
 
 
 
