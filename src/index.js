@@ -176,6 +176,10 @@ addClass("important");
 
 $("p").addClass("important test");
 
+// jQuery method to remove the "important" class from a <p> element.
+
+$("p").removeClass("important");
+
 
 
 
