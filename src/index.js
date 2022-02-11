@@ -21,3 +21,21 @@ $(this).hide();             //Use the correct event to hide all <p> elements wit
 $("p").mouseenter(function(){
     $(this).hide();
 });    //  When the mouse pointer enters a <p> element, it should be hidden. Use the correct event to do so.
+
+// If you press a keyboard key inside an <input> element, it should be hidden. Use the correct event to do so.
+$("input").keypress(function(){
+  $(this).hide();
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
