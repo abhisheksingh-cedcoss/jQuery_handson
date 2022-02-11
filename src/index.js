@@ -113,3 +113,5 @@ $("div").animate({
 $("div").animate({
     fontSize: '100px'}, "slow");
 
+// Use a jQuery method to stop the animation effect of a <div> element.
+$("div").stop();
