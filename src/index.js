@@ -129,6 +129,9 @@ $("input").val();
 
 $("a").attr("href");
 
+// Use a jQuery method to change the text of a <div> element to "Hello World".
+$("div").text("Hello World")
+
 
 
 
