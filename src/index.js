@@ -27,7 +27,10 @@ $("input").keypress(function(){
   $(this).hide();
 });
 
-
+// Use the on() method to attach a click event handler to all <p> elements.
+$("p").on("click", function(){
+  $(this).hide();
+});
 
 
 
