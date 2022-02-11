@@ -122,7 +122,8 @@ $("div").txt();
 // use a jQuery method to return the HTML content of a <div> element.
 $("div").html();
 
-
+// Use a jQuery method to return the value of an input field.
+$("input").val();
 
 
 
