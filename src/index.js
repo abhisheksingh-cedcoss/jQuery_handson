@@ -149,3 +149,7 @@ $("#myLink").attr("href", "https://www.demo.com");
 
 
 $("p").append("YES!");
+
+// insert at the starting of para
+
+$("p").prepend("YES!");
