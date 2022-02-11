@@ -119,6 +119,9 @@ $("div").stop();
 // Use a jQuery method to return the text content of a <div> element.
 $("div").txt();
 
+// use a jQuery method to return the HTML content of a <div> element.
+$("div").html();
+
 
 
 
