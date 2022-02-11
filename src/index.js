@@ -145,5 +145,7 @@ $("img").attr("src", "myimage.jpg");
 $("#myLink").text("Demo");
 $("#myLink").attr("href", "https://www.demo.com");
 
+// method to insert the text "YES!" at the end of a <p> element.
 
 
+$("p").append("YES!");
