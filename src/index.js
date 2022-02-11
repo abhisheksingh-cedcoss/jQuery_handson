@@ -115,3 +115,14 @@ $("div").animate({
 
 // Use a jQuery method to stop the animation effect of a <div> element.
 $("div").stop();
+
+// Use a jQuery method to return the text content of a <div> element.
+$("div").txt();
+
+
+
+
+
+
+
+
