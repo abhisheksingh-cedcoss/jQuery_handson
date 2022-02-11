@@ -240,6 +240,10 @@ $("div").find("span");
 //Use a jQuery method to get all siblings elements of an <h2> element.
 $("h2").siblings();
 
+// Use a jQuery method to get the first <div> element in the document.
+
+$("div").first();
+
 
 
 
