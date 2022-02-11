@@ -84,6 +84,13 @@ $("div").slideUp("slow");
 // Use a jQuery method to slide down a <div> element.
 $("div").slideDown();
 
+// use a jQuery method to toggle between sliding up and down a <div> element, when clicking on a button.
+
+
+$("button").click(function(){  
+    $("div").slideToggle();
+});
+
 
 
 
