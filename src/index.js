@@ -153,3 +153,7 @@ $("p").append("YES!");
 // insert at the starting of para
 
 $("p").prepend("YES!");
+
+// method to remove a div
+
+$("div").remove();
