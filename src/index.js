@@ -55,7 +55,9 @@ $("button").click(function(){
     $("p").toggle();
   });
 
+// Use a jQuery method to fade out a <div> element.
 
+$("div").fadeout();
 
 
 
