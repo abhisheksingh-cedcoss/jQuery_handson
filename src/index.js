@@ -157,3 +157,8 @@ $("p").prepend("YES!");
 // method to remove a div
 
 $("div").remove();
+
+// remove the child element of a div
+
+$("div").empty();
+
